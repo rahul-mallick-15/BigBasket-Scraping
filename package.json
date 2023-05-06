@@ -1,0 +1,22 @@
+{
+  "name": "bigbasket-scraping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.39.0"
+  },
+  "dependencies": {
+    "@google-cloud/local-auth": "^2.1.0",
+    "dotenv": "^16.0.3",
+    "googleapis": "^105.0.0",
+    "he": "^1.2.0",
+    "puppeteer": "^20.1.0"
+  }
+}
